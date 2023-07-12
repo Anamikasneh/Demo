@@ -18,6 +18,3 @@ To install the Todo List app, use git:
 # Deployment
 To deploy this project, simply open the index.html file in your browser.
 
-# Demo
-Check out the live demo of the application at Click Here to see it in action.
-
