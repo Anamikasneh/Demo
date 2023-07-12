@@ -1,4 +1,4 @@
-# Demo
+# TodoList
 Todo List App Using Vanilla JavaScript
 This is a simple and user-friendly Todo List application that is created using only vanilla JavaScript, HTML, and CSS, without relying on any external libraries. The application is part of a project that was undertaken during the Career Camp course at Coding Ninjas.
 
@@ -16,10 +16,3 @@ This project helped me to understand the practical use cases of JavaScript and b
 Installation
 To install the Todo List app, use git:
 
-git clone git@github.com:ezio-24/ezio-24.github.io-TO-DO-List.git
-cd ezio-24.github.io-TO-DO-List
-Deployment
-To deploy this project, simply open the index.html file in your browser.
-
-Demo
-Check out the live demo of the application at Click Here to see it in action.
